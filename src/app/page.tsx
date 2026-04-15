@@ -1,7 +1,0 @@
-export default function Home() {
-  return (
-    <div className="flex min-h-screen items-center justify-center gap-4 bg-background">
-      <h1 className="text-2xl font-semibold">Welcome to Resonance</h1>
-    </div>
-  );
-}
